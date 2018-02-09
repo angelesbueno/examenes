@@ -1,0 +1,9 @@
+# Copias de seguridad
+*.bak
+
+# Clases compiladas
+*.class
+
+# Archivos comprimidos
+*.rar
+*.zip
